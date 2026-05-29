@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  /* Volcano brand colors -- dark theme inspired by volcano.dev */
+  --color-volcano-bg: #0a0a0f;
+  --color-volcano-surface: #12121a;
+  --color-volcano-surface-hover: #1a1a25;
+  --color-volcano-border: #1e1e2e;
+  --color-volcano-border-hover: #2a2a3e;
+  --color-volcano-text: #e4e4ed;
+  --color-volcano-text-muted: #8888a0;
+  --color-volcano-accent: #f97316;
+  --color-volcano-accent-hover: #fb923c;
+  --color-volcano-accent-glow: rgba(249, 115, 22, 0.15);
+  --color-volcano-user: #1e1e2e;
+  --color-volcano-assistant: #161620;
+  --color-volcano-error: #ef4444;
+  --color-volcano-green: #22c55e;
+}
