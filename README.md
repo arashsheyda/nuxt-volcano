@@ -1,6 +1,14 @@
-# nuxt-volcano
+<p align="center">
+  <a href="https://volcano.dev">
+    <img src="https://www.volcano.dev/volcano__icn.png" alt="Volcano" width="80" />
+  </a>
+</p>
 
-Nuxt module for the [Volcano Agent SDK](https://www.volcano.dev/) -- build AI agents that combine LLM reasoning with real-world actions via MCP tools.
+<h1 align="center">nuxt-volcano</h1>
+
+<p align="center">
+Nuxt module for the <a href="https://www.volcano.dev/">Volcano Agent SDK</a> — build AI agents that combine LLM reasoning with real-world actions via MCP tools.
+</p>
 
 ## Features
 
