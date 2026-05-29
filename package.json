@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@nuxt/kit": "^4.4.6",
-    "@volcano.dev/agent": "latest",
+    "@volcano.dev/agent": "^1.1.0",
     "defu": "^6.1.4"
   },
   "devDependencies": {

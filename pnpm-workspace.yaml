@@ -1,2 +1,8 @@
 packages:
   - playground
+minimumReleaseAgeExclude:
+  - '@kong/*'
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - esbuild
+  - unrs-resolver

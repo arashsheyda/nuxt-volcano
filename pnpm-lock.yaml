@@ -12,7 +12,7 @@ importers:
         specifier: ^4.4.6
         version: 4.4.6(magicast@0.5.3)
       '@volcano.dev/agent':
-        specifier: latest
+        specifier: ^1.1.0
         version: 1.2.0(ws@8.21.0)(zod@4.4.3)
       defu:
         specifier: ^6.1.4
